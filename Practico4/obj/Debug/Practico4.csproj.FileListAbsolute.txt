@@ -1,0 +1,11 @@
+C:\Users\Agustin\source\repos\Practico4\bin\Debug\Practico4.exe.config
+C:\Users\Agustin\source\repos\Practico4\bin\Debug\Practico4.exe
+C:\Users\Agustin\source\repos\Practico4\bin\Debug\Practico4.pdb
+C:\Users\Agustin\source\repos\Practico4\obj\Debug\Practico4.csproj.AssemblyReference.cache
+C:\Users\Agustin\source\repos\Practico4\obj\Debug\Practico4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agustin\source\repos\Practico4\obj\Debug\Practico4.FormListaDeNumeros.resources
+C:\Users\Agustin\source\repos\Practico4\obj\Debug\Practico4.Properties.Resources.resources
+C:\Users\Agustin\source\repos\Practico4\obj\Debug\Practico4.csproj.GenerateResource.cache
+C:\Users\Agustin\source\repos\Practico4\obj\Debug\Practico4.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\Practico4\obj\Debug\Practico4.exe
+C:\Users\Agustin\source\repos\Practico4\obj\Debug\Practico4.pdb
